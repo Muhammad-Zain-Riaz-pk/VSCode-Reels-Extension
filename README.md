@@ -1,7 +1,3 @@
-Here’s your **final README** with your **GitHub repo link** included:  
-
----
-
 # **VS Reels – Watch Instagram & YouTube Reels in VS Code 🎥**  
 🚀 **VS Reels** is an open-source **VS Code extension** that lets you watch **Instagram & YouTube Reels** inside your editor while coding. Stay entertained without switching tabs!  
 
